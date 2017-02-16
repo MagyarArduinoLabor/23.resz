@@ -21,7 +21,7 @@ void setup()
   Serial.println("IR Receiver Button Decode");
   irrecv.enableIRIn();
 
-
+}
  void translateIR()
 
   {
